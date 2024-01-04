@@ -1,1 +1,0 @@
-{"mappings":"AAAA,SAAS,gBAAgB,CAAC,oBAAoB,CAAC;IAC9C,SAAS,aAAa,CAAC,cAAc,SAAS,GAAG;AAClD","sources":["src/scripts/main.js"],"sourcesContent":["document.addEventListener('DOMContentLoaded', (event) => {\n\tdocument.querySelector('.icon-open').innerHTML = myIcon\n})\n"],"names":[],"version":3,"file":"index.f75de5e1.js.map","sourceRoot":"/__parcel_source_root/"}
